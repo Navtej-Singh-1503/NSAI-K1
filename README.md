@@ -181,6 +181,12 @@ You can support me via cryptocurrency:
 - LTC : ltc1qspfztcvax7g9caqgdmp3ex6fytrr0dlssr0r45
 - URL : litecoin:LTC1QSPFZTCVAX7G9CAQGDMP3EX6FYTRR0DLSSR0R45
 
+## If I got Help
+- Add Image creation in NSAI-K2
+- Add a website of NSAI-K2
+- Add a Full explain Vedio for NSAI-K2 Working
+- Release Tech I'm gonna Use in NSAI-K2
+
 # Owner
 
 ### Creater - Navtej-Singh-Saggar
