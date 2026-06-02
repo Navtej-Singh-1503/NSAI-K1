@@ -139,7 +139,7 @@ streamlit run main.py
 ## NSAI-K2
 Upcoming improvements planned for NSAI-K2:
 
-- ~30K lines dataset
+- ~500K lines dataset
 - Better memory optimization
 - Faster response generation
 - Improved Transformer architecture
